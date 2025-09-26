@@ -1,0 +1,16 @@
+#include<stdio.h>
+void main()
+{
+	clrscr();//clear screen
+	printf("address\nnakum bhaviki\village monpur\n ta.dis.amreli");
+	getch();
+
+
+
+}
+
+
+
+
+
+

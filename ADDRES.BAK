@@ -1,0 +1,7 @@
+#include<stdio.h>
+void main ()
+{
+	clrscr();//clear to the out put screen
+	printf("my name is name is nakum bhavik \n and address village \n monpur");
+	getch();//stop to the out put screen
+}

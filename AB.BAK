@@ -1,0 +1,10 @@
+#include<stdio.h>
+void main()
+{
+	int a=10;
+	int b=20;
+	clrscr();//clear screen in output time
+	printf("\n%d\n",a);
+	printf("\n%d\n%d\n",a,b);
+	getch();//stop  to the run time screen
+}
