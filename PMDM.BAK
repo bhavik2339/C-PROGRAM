@@ -1,0 +1,25 @@
+#include<stdio.h>
+void main()
+{
+	int a=80;
+	int b=60;
+	int c;
+	int d;
+	int e;
+	int f;
+	clrscr();//clear screen in output time
+	printf("my name is nakum bhavik in my program ");
+	printf("\n%d\n",a+b);
+	printf("\n%d\n",a-b);
+	printf("\n%d\n",a*b);
+	printf("\n%d\n",a/b);
+	c=a+b;//intger c value is a+b
+	printf("\n%d\n",c);
+	d=a-b;//integer d value is a-b
+	printf("   %d",d);
+	e=a*b;//integer e value is a*b
+	printf("\n %d\n",e);
+	f=a/b;//integer f value is a/b
+	printf("\n%d\n",f);
+	getch();//stop to the screen in output time
+}

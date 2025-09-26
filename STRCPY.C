@@ -1,0 +1,17 @@
+#include<stdio.h>
+#include<conio.h>
+#include<string.h>
+void main()
+{
+	char a[10]="bca";
+	char b[10]="welcome";
+	clrscr();
+	strcpy(a,b);
+	printf("%s",a);
+	printf("%s",b);
+	streat(a,b);
+	printf("%s",a);
+	printf("%s",b);
+	printf("\n\t %d",strelen(b));
+	getch();
+}
